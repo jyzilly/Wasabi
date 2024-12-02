@@ -1598,6 +1598,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cdf267e1e3aa9f741901f31384c15cbc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  nickName: {fileID: 1746524621}
+  startButton: {fileID: 0}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
